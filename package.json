@@ -9,6 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "eslint": "^9.31.0",
+    "prettier": "^3.6.2",
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "html2pdf.js": "^0.10.3"
   }
 }
